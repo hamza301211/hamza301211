@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza301211&label=Profile%20views&color=0e75b6&style=flat" alt="hamza301211" /> </p>
 
-- 🔭 I’m currently working on **KBM**
+- 🔭 I’m currently working on **AWS**
 
 - 🌱 I’m currently learning **Type Script, Next Js**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **MERN**
 
